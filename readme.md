@@ -2,9 +2,9 @@
 The aim of this repository/project is to generate a new text from text corpus and perform prediction based on provided sequence of words
 
 ## Dataset
-<a src="https://www.kaggle.com/kingburrito666/shakespeare-plays?select=Shakespeare_data.csv">Shakespeare-plays</a>
+<a href="https://www.kaggle.com/kingburrito666/shakespeare-plays?select=Shakespeare_data.csv">Shakespeare-plays</a>
 
-**Text-corpus:** <a src="./data/alllines.txt" >allines.txt</a>
+**Text-corpus:** <a href="./data/alllines.txt" >allines.txt</a>
 
 ## Process
 
