@@ -18,7 +18,7 @@ The second stage consists of forming the previous and current state pairs. Since
 
 In stage 3 we need to  perform simple counts and calculate the probability of the next states possible for a given current state as previosuly.
 
-* Text-corpus genneration capture
+* Text-corpus generation capture
   <img src="./images/text_generation.png" >
 
 * Text-prediction capture
