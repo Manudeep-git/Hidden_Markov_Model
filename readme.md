@@ -19,10 +19,10 @@ The second stage consists of forming the previous and current state pairs. Since
 In stage 3 we need to  perform simple counts and calculate the probability of the next states possible for a given current state as previosuly.
 
 * Text-corpus genneration capture
-  <img src="./text_generation.png" >
+  <img src="./images/text_generation.png" >
 
 * Text-prediction capture
-  <img src="./text_prediction.PNG" >
+  <img src="./images/text_prediction.PNG" >
 
 ## References
 1. https://towardsdatascience.com/markov-and-hidden-markov-model-3eec42298d75
